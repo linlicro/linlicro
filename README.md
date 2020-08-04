@@ -10,4 +10,4 @@ Hi, I'm [Lin](https://blog.icro.me/) 👋
 [![Lin's github stats](https://github-readme-stats.vercel.app/api?username=linlicro&show_icons=true)](https://github.com/linlicro)
 
 
-⭐️ From [windard](https://github.com/linlicro)
+⭐️ From [lin](https://github.com/linlicro)
